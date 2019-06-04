@@ -1,0 +1,16 @@
+com\ego\items\service\impl\TbItemServiceImpl.class
+com\ego\items\service\impl\TbItemParamItemNode.class
+com\ego\items\controller\PortalMenuController.class
+com\ego\items\service\impl\TbItemParamItemChild.class
+com\ego\items\controller\TbItemController.class
+com\ego\items\service\impl\TbItemParamItemServiceImpl.class
+com\ego\items\controller\TbItemParamItemController.class
+com\ego\items\service\TbItemDescService.class
+com\ego\items\controller\TbItemDescController.class
+com\ego\items\pojo\PortalMenu.class
+com\ego\items\pojo\PortalMenuNode.class
+com\ego\items\service\TbItemService.class
+com\ego\items\service\TbItemCatService.class
+com\ego\items\service\impl\TbItemCatServiceImpl.class
+com\ego\items\service\impl\TbItemDescServiceImpl.class
+com\ego\items\service\TbItemParamItemService.class
